@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#FFF0F5"/>
+  
+  <!-- Фоновый паттерн -->
+  <g opacity="0.1">
+    <path d="M0 0L1200 630M1200 0L0 630" stroke="#FF69B4" stroke-width="2"/>
+    <path d="M600 0L600 630M0 315L1200 315" stroke="#FF69B4" stroke-width="2"/>
+  </g>
+  
+  <!-- Центральный элемент -->
+  <g transform="translate(400, 115)">
+    <path d="M200 100L300 150V250L200 300L100 250V150L200 100Z" fill="#FF69B4"/>
+    <path d="M200 100L300 150V250L200 300L100 250V150L200 100Z" stroke="white" stroke-width="4"/>
+    <path d="M200 100V300M100 150L200 200L300 150" stroke="white" stroke-width="4"/>
+    <circle cx="200" cy="200" r="40" fill="white"/>
+    <path d="M180 200L195 215L220 190" stroke="#FF69B4" stroke-width="4"/>
+  </g>
+  
+  <!-- Текст -->
+  <text x="600" y="500" font-family="Arial" font-size="48" fill="#333" text-anchor="middle">
+    Премиальные подарочные боксы
+  </text>
+  <text x="600" y="550" font-family="Arial" font-size="24" fill="#666" text-anchor="middle">
+    Романтические • Корпоративные • Праздничные
+  </text>
+</svg> 
